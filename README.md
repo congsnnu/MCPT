@@ -6,7 +6,7 @@
 ---
 
 ## 🧩 Overview
-![Main1](resource/Main1.svg)
+![Main1](resource/Main.png)
 
 ---
 
